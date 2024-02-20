@@ -46,9 +46,7 @@ print("A new line is added through Spyder locally in Github repository folder on
 print("The second new line is added through Spyder locally in Github repository folder on 1615 20 Feb 2024.")
 print("It is used to test if local changes can be detected by the PM mechanism automatically even being edited.")
 
-#Conclusion
-print("During editing the changes will not be synchronised to the desktop.")
-print("Upon saving the file, the PM starts warning.")
+
         
         
         
